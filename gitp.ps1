@@ -1,8 +1,8 @@
 param(
-    [string]$param1
+    [string]$1
 )
 
 git add --all
-git commit -m ":fire:$param1"
+git commit -m ":fire:$1"
 git push
 
