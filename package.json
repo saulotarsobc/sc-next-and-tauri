@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "tauri dev",
+    "build": "tauri build",
     "start": "next start",
-    "lint": "next lint",
-    "tauri": "tauri"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "14.1.4",
