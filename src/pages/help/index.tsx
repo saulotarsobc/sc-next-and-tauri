@@ -1,10 +1,7 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
 import Link from "next/link";
+import React from "react";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+export default function Help() {
   return (
     <main>
       <nav className="bg-blue-500">
@@ -14,7 +11,7 @@ export default function Home() {
       <br />
       <br />
       <br />
-      <h1>Home</h1>
+      <h1>Help</h1>
     </main>
   );
 }
