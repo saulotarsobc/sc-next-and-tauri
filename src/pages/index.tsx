@@ -8,8 +8,9 @@ export default function Home() {
   return (
     <main>
       <nav className="bg-blue-500">
-        <Link href="/help">Help</Link>
         <Link href="/">Home</Link>
+        -
+        <Link href="/help">Help</Link>
       </nav>
       <br />
       <br />

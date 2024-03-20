@@ -2,6 +2,10 @@
 
 Este é um projeto incrível que combina Next.js e Tauri para criar uma aplicação poderosa e versátil.
 
+## Help
+
+- [Static Exports](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports)
+
 ## Como começar
 
 Para começar, siga os passos abaixo:
