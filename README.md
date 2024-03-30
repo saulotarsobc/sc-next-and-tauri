@@ -5,6 +5,7 @@ Este é um projeto incrível que combina Next.js e Tauri para criar uma aplicaç
 ## Help
 
 - [Static Exports](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports)
+- [VSCode - Launch configurations](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
 
 ## Como começar
 
